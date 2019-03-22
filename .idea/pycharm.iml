@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/demo1" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/demo2" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/yaml" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/page_object" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/kyb_testProject" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/kyb_testProject/app" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/kyb_testProject/baseView" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/kyb_testProject/businessView" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/kyb_testProject/common" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/kyb_testProject/config" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/kyb_testProject/data" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/kyb_testProject/logs" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/kyb_testProject/reports" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/kyb_testProject/screenshots" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/kyb_testProject/test_case" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/kyb_testProject/test_run" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/kyb_testProject_1" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/kyb_testProject_1/app" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/kyb_testProject_1/baseView" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/kyb_testProject_1/businessView" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/kyb_testProject_1/common" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/kyb_testProject_1/config" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/kyb_testProject_1/data" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/kyb_testProject_1/logs" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/kyb_testProject_1/reports" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/kyb_testProject_1/screenshots" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/kyb_testProject_1/test_case" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/kyb_testProject_1/test_run" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/demo1/test_project" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/demo2/test_project" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/demo2/test_baidu" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/demo2/test_baidu/test_case" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/demo2/test_baidu/test_report" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AutoTest_project" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AutoTest_project/driver" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AutoTest_project/Website" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AutoTest_project/Website/test_case" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AutoTest_project/Website/test_case/model" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AutoTest_project/Website/test_report" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AutoTest_project/Website/test_report/screenshot" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AutoTest_project/Website/test_case/page_object" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/venv" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+  <component name="TestRunnerService">
+    <option name="PROJECT_TEST_RUNNER" value="Unittests" />
+  </component>
+</module>
